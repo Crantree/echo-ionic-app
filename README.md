@@ -1,18 +1,6 @@
-# Ionic 2 Conference Application
+# ECHO Mobile Applicaiton
 
-This is purely a demo of Ionic 2 with TypeScript. It is still in development.
-
-
-## Important!
-**There is not an actual Ionic Conference at this time.** This project is just to show off Ionic 2 components in a real-world application. Please go through the steps in [CONTRIBUTING.md](https://github.com/driftyco/ionic-conference-app/blob/master/.github/CONTRIBUTING.md) before submitting an issue.
-
-
-## Table of Contents
- - [Getting Started](#getting-started)
- - [Contributing](#contributing)
- - [Use Cases](#use-cases)
- - [App Preview](#app-preview)
- - [File Structure of App](#file-structure-of-app)
+This is a hybrid mobile application using IONIC2.
 
 
 ## Getting Started
@@ -25,49 +13,6 @@ This is purely a demo of Ionic 2 with TypeScript. It is still in development.
 * Profit
 
 **Note:** Is your build slow? Update `npm` to 3.x: `npm install -g npm`.
-
-
-## Contributing
-See [CONTRIBUTING.md](https://github.com/driftyco/ionic-conference-app/blob/master/CONTRIBUTING.md) :tada::+1:
-
-
-## Use Cases
-
-* Action Sheet - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/speaker-list/speaker-list.html) | [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/speaker-list/speaker-list.ts) ]
-* Alert - [ [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.ts) ]
-* Cards - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/speaker-list/speaker-list.html) ]
-* Datetime - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/about/about.html) ]
-* Grid - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/login/login.html) ]
-* Inputs - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/login/login.html) ]
-* Items (Sliding) - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.html) | [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.ts) ]
-* Menu - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/app.html) |
-[code](https://github.com/driftyco/ionic-conference-app/blob/master/app/app.ts) ]
-* Modal - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule-filter/schedule-filter.html) | [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.ts) ]
-* Searchbar - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.html) | [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.ts) ]
-* Segment - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.html) | [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.ts) ]
-* Slides - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/tutorial/tutorial.html) |
-* Sticky headers - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.html) ]
-* Tabs - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/tabs/tabs.html) | [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/tabs/tabs.ts) ]
-* Toggle - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule-filter/schedule-filter.html) ]
-[code](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/tutorial/tutorial.ts) ]
-* Using Angular HTTP for JSON - [ [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/providers/conference-data.ts) | [usage](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.ts) ]
-
-
-## App Preview
-
-All app preview screenshots were taken by running `ionic serve --lab` on a retina display.
-
-- [Schedule Page](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.html)
-
-  <img src="resources/screenshots/SchedulePage.png" alt="Schedule">
-
-
-- [About Page](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/about/about.html)
-
-  <img src="resources/screenshots/AboutPage.png" alt="Schedule">
-
-
-- To see more images of the app, check out the [screenshots directory](https://github.com/driftyco/ionic-conference-app/tree/master/resources/screenshots)!
 
 
 ## File Structure of App
